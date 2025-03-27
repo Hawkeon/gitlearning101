@@ -77,3 +77,8 @@
 *Câu lệnh kết nối :
 `ftp serverhost `
 *Sau khi kết nối với sever thì có thể sử dụng các lệnh như cd,ls,.. để xem thông tin trên sever và !ls ,!cd ,... cho máy local
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+Bản phân phối em chọn để dùng linux là ubuntu.Vì ubuntu có giao diện thân thiện với người dùng ,có cộng đồng lớn, tính ổn định và phù hợp để cài đặt và quản lý hệ thống
