@@ -84,4 +84,6 @@
 Bản phân phối em chọn để dùng linux là ubuntu.Vì ubuntu có giao diện thân thiện với người dùng ,có cộng đồng lớn, tính ổn định và phù hợp để cài đặt và quản lý hệ thống
 
 
+
 i edit the testing text
+
